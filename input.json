@@ -1,0 +1,24 @@
+{
+  "name": "Test User",
+  "age": 30,
+  "isActive": true,
+  "emails": ["test.user@example.com", "user.test@example.org"],
+  "address": {
+    "street": "123 Main St",
+    "city": "Sampleville",
+    "zip": "12345"
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Project Alpha",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Project Beta",
+      "completed": true
+    }
+  ],
+  "notes": null
+}
