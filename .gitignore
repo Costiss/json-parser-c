@@ -1,0 +1,9 @@
+/build/
+/obj/
+my_program
+*.o
+*.d
+*.exe
+*.out
+*.log
+
